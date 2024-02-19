@@ -5,7 +5,7 @@ function PrivacyPolicy() {
     <div className="container mx-auto px-4 py-8">
       <h1 className="text-3xl font-bold mb-4">Privacy Policy</h1>
       <p className="mb-4">
-        Imaginify is committed to protecting the privacy and security of your personal information. This Privacy Policy describes how we collect, use, and disclose information when you use our AI image SaaS platform ("Service").
+        Imaginify is committed to protecting the privacy and security of your personal information. This Privacy Policy describes how we collect, use, and disclose information when you use our AI image SaaS platform (&quot;Service&quot;).
       </p>
 
       <h2 className="text-xl font-semibold mb-2">Information We Collect</h2>

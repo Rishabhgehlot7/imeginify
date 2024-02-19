@@ -3,7 +3,7 @@ import React from 'react';
 function CancellationRefundPolicy() {
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold mb-4">Cancellation & Refund Policy</h1>
+      <h1 className="text-3xl font-bold mb-4">Cancellation &amp; Refund Policy</h1>
 
       <h2 className="text-xl font-semibold mb-2">Cancellation</h2>
       <p className="mb-4">
@@ -26,7 +26,7 @@ function CancellationRefundPolicy() {
 
       <h2 className="text-xl font-semibold mb-2">Contact Us</h2>
       <p>
-        If you have any questions or concerns about our Cancellation & Refund Policy, please contact us at <a href="mailto:support@example.com" className="text-blue-500">support@example.com</a>.
+        If you have any questions or concerns about our Cancellation &amp; Refund Policy, please contact us at <a href="mailto:support@example.com" className="text-blue-500">support@example.com</a>.
       </p>
 
       <p className="mt-4">Last Updated: [Date]</p>

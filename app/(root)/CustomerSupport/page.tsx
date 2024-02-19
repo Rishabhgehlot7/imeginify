@@ -21,7 +21,7 @@ function CustomerSupport() {
       <div className="mb-4">
         <h3 className="text-lg font-semibold mb-2">How do I reset my password?</h3>
         <p>
-          To reset your password, click on the "Forgot Password" link on the login page and follow the instructions provided.
+          To reset your password, click on the &quot;Forgot Password&quot; link on the login page and follow the instructions provided.
         </p>
       </div>
       <div>

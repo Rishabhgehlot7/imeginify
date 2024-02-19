@@ -7,7 +7,7 @@ function TermsOfService() {
 
       <h2 className="text-xl font-semibold mb-2">1. Acceptance of Terms</h2>
       <p className="mb-4">
-        By accessing or using our AI image SaaS platform ("Service"), you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing the Service.
+        By accessing or using our AI image SaaS platform (&quot;Service&quot;), you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing the Service.
       </p>
 
       <h2 className="text-xl font-semibold mb-2">2. Use License</h2>
@@ -17,7 +17,7 @@ function TermsOfService() {
 
       <h2 className="text-xl font-semibold mb-2">3. User Content</h2>
       <p className="mb-4">
-        Our Service allows you to post, link, store, share, and otherwise make available certain information, text, graphics, videos, or other material ("User Content"). You are responsible for the User Content that you post on or through the Service.
+        Our Service allows you to post, link, store, share, and otherwise make available certain information, text, graphics, videos, or other material (&quot;User Content&quot;). You are responsible for the User Content that you post on or through the Service.
       </p>
 
       <h2 className="text-xl font-semibold mb-2">4. Intellectual Property Rights</h2>
